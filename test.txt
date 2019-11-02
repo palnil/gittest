@@ -3,3 +3,5 @@ This is test for demoing git feature.
 change A
 
 change B
+
+change C
